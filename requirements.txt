@@ -1,0 +1,4 @@
+os
+pyzbar
+opencv-python
+pyside6
